@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77b3b979-aed9-43f3-b77f-c855120a13c8" name="Changes" comment="complete project page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="77b3b979-aed9-43f3-b77f-c855120a13c8" name="Changes" comment="few changes">
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707016915633</updated>
-      <workItem from="1707016917583" duration="21028000" />
+      <workItem from="1707016917583" duration="21393000" />
     </task>
     <task id="LOCAL-00001" summary="init the project">
       <option name="closed" value="true" />
@@ -134,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707062284603</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="few changes">
+      <option name="closed" value="true" />
+      <created>1707062771226</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707062771226</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,11 +152,11 @@
     <MESSAGE value="init the project" />
     <MESSAGE value="complete home page" />
     <MESSAGE value="complete contact page" />
-    <MESSAGE value="few changes" />
     <MESSAGE value="complete about page" />
     <MESSAGE value="complete team page" />
     <MESSAGE value="complete project page" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete project page" />
+    <MESSAGE value="few changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="few changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
