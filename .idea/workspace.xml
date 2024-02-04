@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77b3b979-aed9-43f3-b77f-c855120a13c8" name="Changes" comment="complete home page">
+    <list default="true" id="77b3b979-aed9-43f3-b77f-c855120a13c8" name="Changes" comment="complete contact page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vendor-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/vendor-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vendor-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/vendor-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vendor-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/vendor-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vendor-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/vendor-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vendor-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/vendor-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vendor-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/vendor-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vendor-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/vendor-7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vendor-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/vendor-8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vendor-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/vendor-9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quote.html" beforeDir="false" afterPath="$PROJECT_DIR$/quote.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707016915633</updated>
-      <workItem from="1707016917583" duration="8315000" />
+      <workItem from="1707016917583" duration="8949000" />
     </task>
     <task id="LOCAL-00001" summary="init the project">
       <option name="closed" value="true" />
@@ -106,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707021470766</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete contact page">
+      <option name="closed" value="true" />
+      <created>1707025808612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707025808612</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +113,8 @@
     <MESSAGE value="init the project" />
     <MESSAGE value="few changes" />
     <MESSAGE value="complete home page" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete home page" />
+    <MESSAGE value="complete contact page" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete contact page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
