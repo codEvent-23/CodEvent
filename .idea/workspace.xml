@@ -8,12 +8,17 @@
       <change afterPath="$PROJECT_DIR$/../Java Serialization/Java Serialization.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../incometaxCal/incometaxCal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature.html" beforeDir="false" afterPath="$PROJECT_DIR$/feature.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quote.html" beforeDir="false" afterPath="$PROJECT_DIR$/quote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/carousel-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team-8.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonial-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/user.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1-st-Semester-Layered-Project/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../1-st-Semester-Layered-Project/.idea/compiler.xml" beforeDir="false" />
@@ -405,7 +410,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707110126345</updated>
-      <workItem from="1707110132444" duration="13064000" />
+      <workItem from="1707110132444" duration="14217000" />
     </task>
     <servers />
   </component>
