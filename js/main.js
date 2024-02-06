@@ -124,3 +124,56 @@
     
 })(jQuery);
 
+//mail send
+(function(){
+    emailjs.init("qB_ZadsDSmFghoi2w");
+})();
+
+const name = document.querySelector('#name');
+const email = document.querySelector('#email');
+const subject = document.querySelector('#message');
+const msg = document.querySelector('#subject');
+
+let email_pattern = '^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$';
+
+function sendMail(){
+
+    if (name.value && email.value && msg.value) {
+        if (email.value.match(email_pattern)) {
+
+            let parameter = {
+                name: name.value,
+                email: email.value,
+                message: msg.value,
+                subject: subject.value
+            };
+
+            const serviceId = 'service_fjtn5pa';
+            const templateId = 'template_mpnuccg';
+
+            emailjs.send(serviceId, templateId, parameter).then(() => {
+                name.value = '';
+                email.value = '';
+                msg.value = '';
+
+                Swal.fire('Message send!', 'Thank you for sharing your ideas with me.', 'success');
+            }).catch((e) => {
+                Swal.fire({
+                    icon: 'error',
+                    title: e
+                });
+            });
+        }else{
+            Swal.fire({
+                icon: 'warning',
+                title: 'Please enter valid email!'
+            });
+        }
+    }else{
+        Swal.fire({
+            icon: 'warning',
+            title: 'Please fill all the details!'
+        });
+    }
+}
+
